@@ -1,0 +1,32 @@
+#note {
+    color: red;
+    font-weight: 700;
+    word-spacing: 3px;
+    font-size: large;
+}
+#title {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: aqua;
+
+}
+
+#header_div {
+    background-color: magenta;
+    color: black;
+}
+
+#footer_txt {
+    color: black;
+    font-weight: 400;
+    word-spacing: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: center;
+}
